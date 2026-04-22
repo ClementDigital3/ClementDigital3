@@ -14,11 +14,11 @@
 
 ## 🧭 Who I Am
 
-I'm a 23-year-old developer and visual designer who sees code as a language for solving real human problems. I don't just build features — I build systems that matter.
+I'm a 23-year-old developer and visual designer who sees code as a language for solving real human problems. I don't just build features, I build systems that matter.
 
-I'm currently on an institutional placement where I independently identified a workflow inefficiency and built an entire **student attachment application portal** from scratch — then walked into a boardroom and pitched it to directors and HR executives. That's the kind of builder I am.
+I'm currently on an institutional placement where I independently identified a workflow inefficiency and built an entire **student attachment application portal** from scratch then walked into a boardroom and pitched it to directors and HR executives. That's the kind of builder I am.
 
-My work sits at the intersection of **engineering**, **design**, and **purpose**. I'm deeply faith-driven, philosophically curious, and obsessed with using technology as a vehicle for growth — both personal and collective.
+My work sits at the intersection of **engineering**, **design**, and **purpose**. I'm deeply faith-driven, philosophically curious, and obsessed with using technology as a vehicle for growth both personal and collective.
 
 ---
 
@@ -107,8 +107,7 @@ I approach life and work the same way: **step by step, with purpose, rooted in f
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clemclaud203@gmail.com)
 </div>
 
 ---
